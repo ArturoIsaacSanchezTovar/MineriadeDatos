@@ -9,3 +9,7 @@
 - [Ejercicio base de datos](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Equipo_4-Ejercicio%20base%20de%20datos.pdf)
 
 - [Ejercicios Básicos de Python](https://github.com/ArturoIsaacSanchezTovar/MineriadeDatos/blob/main/Ej_Python_1867031.ipynb)
+
+- [Práctica 1-Limpieza de Datos](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Ej_Limpieza_Equipo4.ipynb)
+
+- [Primer avance PIA](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Avance1_PIA_Equipo4.ipynb)
