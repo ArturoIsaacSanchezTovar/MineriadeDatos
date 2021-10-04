@@ -20,4 +20,6 @@
 
 - [Preguntas Series de Tiempo](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Preguntas_SeriesdeTiempo_4.pdf)
 
+- [Práctica II: Visualización de Datos](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/Visualizacion_Equipo4.ipynb)
+
 - [Segundo Avance PIA](https://github.com/AlbertoEli/UANL_Mineria_de_Datos/blob/main/AvancePIA_II_Grupo01_Equipo4_.ipynb)
